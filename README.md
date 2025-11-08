@@ -18,6 +18,69 @@ My goal is not only to develop your website but also to add a **unique touch** t
 
 ---
 
+### 🎓 Education  
+
+**Bachelor of Computer Science (BSCS)**  
+*The Islamia University of Bahawalpur, Pakistan (2021–2025)*  
+**CGPA:** 3.15  
+> Core Subjects: Software Engineering, Programming Fundamentals, Data Structures, Web Systems, Artificial Intelligence, Database Systems  
+
+**Intermediate (ICS)**  
+*Informatics International College, Bahawalnagar (2019–2021)*  
+**Marks:** 84%  
+
+**Government Graduate College, Bahawalpur (2019 — 2021)**  
+I completed my **ICS** education from this institute and secured **91% marks in aggregate**.  
+
+**Science College, Minchinabad (2017 — 2019)**  
+I did my **Matriculation** from Science College Minchinabad and secured **92% marks**. 
+
+---
+
+### 🏅 Certifications  
+
+#### 🎓 **Programming with JavaScript** — *Coursera (Issued by Meta)*  
+**Credential ID:** NDME2P535RKY — *25th August, 2024*  
+> Earned hands-on experience in JavaScript programming fundamentals, DOM manipulation, and debugging techniques.
+
+#### 🎨 **Foundations of User Experience (UX) Design** — *Coursera (Issued by Meta)*  
+**Credential ID:** Y7UGE8T6RBR8 — *21st March, 2024*  
+> Developed a strong understanding of user-centered design, usability testing, and UX principles.
+
+#### 💻 **Introduction to Front-End Development** — *Coursera (Issued by Meta)*  
+**Credential ID:** YLE3DXVQV8DB — *24th February, 2024*  
+> Gained a solid foundation in HTML, CSS, and JavaScript to build responsive and accessible web interfaces.
+
+#### 🧠 **Designing User Interfaces and Experiences (UI/UX)** — *Coursera*  
+**Credential ID:** XX8UMMVJEWLS — *14th February, 2024*  
+> Acquired practical knowledge of UI/UX concepts, wireframing, and modern interface design workflows.
+
+---
+
+### 🧰 Skills
+
+**Frontend**
+- Module Federation Technique 
+- React.js (functional components, hooks) · Next.js (basic) · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Responsive & mobile-first design  
+- JavaScript (ES6+) · DOM manipulation · Chart.js · Accessibility (a11y) best practices
+- Redux & Toolkit
+
+**Backend / Full-Stack**
+- Node.js · Express.js · RESTful APIs · MongoDB · CRUD operations · JSON Web Tokens (auth basics)
+
+**Tooling & Workflow**
+- Git & GitHub (branches, PRs, code reviews) · VS Code · NPM/Yarn · Postman · Browser DevTools  
+- Agile workflows · Component-driven development · Performance optimization
+
+**Design & UX**
+- UI/UX fundamentals · Wireframing & prototyping · Figma / PSD → Webflow & implementation workflows  
+- Usability testing basics · Pixel-perfect implementation
+
+**Soft Skills**
+- Collaboration & teamwork · Problem solving · Time management · Communication · Fast learner . Project Management 
+
+---
+
 ### 🛠️ Tech Stack  
 <div align="center">
 
@@ -94,45 +157,6 @@ Implemented **responsive layouts**, optimized performance, and delivered a **pix
 Developed a **full-stack platform** that allows users to **submit, publish, and manage guest posts**.  
 Implemented a **responsive UI** using **React.js, HTML5, CSS3, and Bootstrap**, and integrated backend APIs for content management.  
 🔗 [Live Demo](https://gmhs-minchinabad.vercel.app)
-
----
-
-### 🎓 Education  
-
-**Bachelor of Computer Science (BSCS)**  
-*The Islamia University of Bahawalpur, Pakistan (2021–2025)*  
-**CGPA:** 3.15  
-> Core Subjects: Software Engineering, Programming Fundamentals, Data Structures, Web Systems, Artificial Intelligence, Database Systems  
-
-**Intermediate (ICS)**  
-*Informatics International College, Bahawalnagar (2019–2021)*  
-**Marks:** 84%  
-
-**Government Graduate College, Bahawalpur (2019 — 2021)**  
-I completed my **ICS** education from this institute and secured **91% marks in aggregate**.  
-
-**Science College, Minchinabad (2017 — 2019)**  
-I did my **Matriculation** from Science College Minchinabad and secured **92% marks**.  
-
----
-
-### 🏅 Certifications  
-
-#### 🎓 **Programming with JavaScript** — *Coursera (Issued by Meta)*  
-**Credential ID:** NDME2P535RKY — *25th August, 2024*  
-> Earned hands-on experience in JavaScript programming fundamentals, DOM manipulation, and debugging techniques.
-
-#### 🎨 **Foundations of User Experience (UX) Design** — *Coursera (Issued by Meta)*  
-**Credential ID:** Y7UGE8T6RBR8 — *21st March, 2024*  
-> Developed a strong understanding of user-centered design, usability testing, and UX principles.
-
-#### 💻 **Introduction to Front-End Development** — *Coursera (Issued by Meta)*  
-**Credential ID:** YLE3DXVQV8DB — *24th February, 2024*  
-> Gained a solid foundation in HTML, CSS, and JavaScript to build responsive and accessible web interfaces.
-
-#### 🧠 **Designing User Interfaces and Experiences (UI/UX)** — *Coursera*  
-**Credential ID:** XX8UMMVJEWLS — *14th February, 2024*  
-> Acquired practical knowledge of UI/UX concepts, wireframing, and modern interface design workflows.
 
 ---
 
