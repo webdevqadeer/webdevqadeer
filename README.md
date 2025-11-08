@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me  
 
-**Welcome to My Portfolio!**  
+**Welcome to My Github Profile!**  
 I am a professional full-stack developer with over **1 year of industry experience**, consistently delivering **100% client satisfaction**.  
 
 As an experienced **MERN Stack Developer**, I specialize in both **front-end** and **back-end** development. I like building, redesigning, and optimizing professional, user-friendly, and fully responsive websites using the power of **Node.js, MongoDB, Express, Next.js, HTML5, CSS3, Tailwind, Bootstrap, and React.js, Module Federation** and other cool frameworks.  
@@ -85,6 +85,8 @@ I did my **Matriculation** from Science College Minchinabad and secured **92% ma
 <div align="center">
 
 ![React](https://img.shields.io/badge/-ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -94,8 +96,11 @@ I did my **Matriculation** from Science College Minchinabad and secured **92% ma
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Module Federation](https://img.shields.io/badge/-Module%20Federation-0A66C2?style=for-the-badge&logo=webpack&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
