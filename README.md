@@ -148,11 +148,12 @@ Used **React.js** and **Tailwind CSS** for layout design and smooth animations.
 
 ---
 
-#### 🌍 **Hobenk Website (Zapta Technologies Lahore)**  
+#### 🌍 **Hobenk Website (Zapta Technologies Lahore)** 
 **Role:** Frontend Developer  
 *6th February, 2025 – 2nd March, 2025*  
 Contributed to the **design and frontend development** of the Hobenk platform.  
 Implemented **responsive layouts**, optimized performance, and delivered a **pixel-perfect UI** focused on seamless user experience.
+🔗 [Live Demo]( https://premium-bank-site.netlify.app/)
 
 ---
 
@@ -179,7 +180,7 @@ Implemented a **responsive UI** using **React.js, HTML5, CSS3, and Bootstrap**, 
 ### 🌍 Connect With Me  
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abdulqadeer-portfolio.netlify.app)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abdulqadeer-portfoliov1.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-qadeer-a58035333)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulqadeer56577@gmail.com)
 
